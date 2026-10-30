@@ -3,7 +3,7 @@
 A cinematic, streaming-inspired portfolio for **Prince Kumar**, Full-Stack Developer and B.Tech Computer Engineering student.
 Every section is an episode, every project is an *Original*, and the whole site plays like a series.
 
-**Live:** https://prince77-ui.github.io/REPO-NAME/ &nbsp;·&nbsp; **GitHub:** [@PRINCE77-UI](https://github.com/PRINCE77-UI)
+**Live:** https://prince-portfolio-fawn.vercel.app/ &nbsp;·&nbsp; **GitHub:** [@PRINCE77-UI](https://github.com/PRINCE77-UI)
 
 > A personal portfolio with a fictional streaming-platform look. It is not affiliated with Netflix or any other streaming service and uses none of their logos.
 
